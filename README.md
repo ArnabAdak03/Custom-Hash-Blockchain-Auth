@@ -3,7 +3,6 @@
 This project demonstrates a decentralized authentication system using:
 - A **custom cryptographic hash function**
 - **Solidity smart contracts** (Remix + Hardhat)
-- Deployment on **XDC Apothem Testnet**
 - **MetaMask** for user verification
 - A **React DApp frontend** for interaction
 
